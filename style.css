@@ -4,9 +4,7 @@
     list-style-type: none;
 }
 body{
-    background-image: url(lib.jpg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url(lib.jpg.jpg) no-repeat center center/ cover;
     background-attachment: fixed;
     color:white;
 }
