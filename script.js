@@ -14,7 +14,7 @@ function tap(){
     a++;
  }
  else if(a==3){
-    quote.innerText = "The big lesson in life, baby, is never be scared of anyone or anythinghbjhbjhbhbjhbjhbjhbjhbjbjbjhhbhjbj.";
+    quote.innerText = "The big lesson in life, baby, is never be scared of anyone or anything .";
     writer.innerText ="Vikash3";
     a++;
  }
