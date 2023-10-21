@@ -24,14 +24,8 @@ body{
     background-color: white;
     border: 2px solid white;
     margin: 0% 25vw 0% 25vw;
-    padding: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 20px black;
-}
-@media screen and (max-width:500px) {
-    .quoteBox{
-        margin: 0% 15vw 0% 15vw;
-    }
 }
 
 .writer{
@@ -44,6 +38,11 @@ body{
     font-size: 18px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     line-height: 30px;
+    height: 60px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .btn{
     background-color: black;
